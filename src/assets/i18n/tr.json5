@@ -1375,24 +1375,24 @@
   
   
   // "comcol-role.edit.community-admin.description": "Community administrators can create sub-communities or collections, and manage or assign management for those sub-communities or collections. In addition, they decide who can submit items to any sub-collections, edit item metadata (after submission), and add (map) existing items from other collections (subject to authorization).",
-  "comcol-role.edit.community-admin.description": "Komünite yöneticileri alt komüniteler veya koleksiyonlar oluşturabilir ve bu alt komüniteler veya koleksiyonlar için yönetimi yönetebilir veya atayabilir. Ek olarak, kimsenin herhangi bir alt koleksiyona kimin gönderebileceğine, madde metadatalarını (sunulduktan sonra) düzenleyebileceğine karar verirler ve mevcut eşyaları diğer koleksiyonlardan (yetkilendirmeye tabi) ekleyin.",
+  "comcol-role.edit.community-admin.description": "Komünite yöneticileri alt komüniteler veya koleksiyonlar oluşturabilir ve bu alt komüniteler veya koleksiyonlar için yöneticileri belirleyebilir veya atayabilir. Ek olarak, herhangi bir alt koleksiyona kimin içerik gönderebileceğine, öğelerin metadatalarını (sunulduktan sonra) düzenleyebileceğine karar verirler ve mevcut içerikleri diğer koleksiyonlardan (yetkileri dahilinde) eşleştirebilirler.",
   
   // "comcol-role.edit.collection-admin.description": "Collection administrators decide who can submit items to the collection, edit item metadata (after submission), and add (map) existing items from other collections to this collection (subject to authorization for that collection).",
-  "comcol-role.edit.collection-admin.description": "Koleksiyon yöneticileri, eşyaları koleksiyona kimin gönderebileceğine, öğe metadatalarını (gönderimden sonra) düzenleyebileceğine karar verir ve mevcut eşyaları diğer koleksiyonlardan (bu koleksiyon için yetkilendirmeye tabi) ekleyin.",
+  "comcol-role.edit.collection-admin.description": "Koleksiyon yöneticileri, öğeleri koleksiyona kimin gönderebileceğine, öğe metadatalarını (gönderimden sonra) düzenleyebileceğine karar verir ve mevcut öğeleri diğer koleksiyonlardan (bu koleksiyon için yetkilendirmeye tabi) eşleyebilir.",
   
   
   // "comcol-role.edit.submitters.name": "Submitters",
   "comcol-role.edit.submitters.name": "Göndericiler",
   
   // "comcol-role.edit.submitters.description": "The E-People and Groups that have permission to submit new items to this collection.",
-  "comcol-role.edit.submitters.description": "Bu koleksiyona yeni eşya gönderme iznine sahip olan E-insanlar ve gruplar.",
+  "comcol-role.edit.submitters.description": "Bu koleksiyona yeni öge gönderme iznine sahip olan kullanıcılar ve gruplar.",
   
   
   // "comcol-role.edit.item_read.name": "Default item read access",
   "comcol-role.edit.item_read.name": "Varsayılan öğe okuma erişimi",
   
   // "comcol-role.edit.item_read.description": "E-People and Groups that can read new items submitted to this collection. Changes to this role are not retroactive. Existing items in the system will still be viewable by those who had read access at the time of their addition.",
-  "comcol-role.edit.item_read.description": "Bu koleksiyona sunulan yeni eşyaları okuyabilen E-insanlar ve gruplar. Bu roldeki değişiklikler geriye dönük değildir. Sistemdeki mevcut eşyalar, eklemeleri sırasında erişimi okuyanlar tarafından görülebilir.",
+  "comcol-role.edit.item_read.description": "Bu koleksiyona sunulan yeni öğeleri okuyabilen kullanıcılar ve gruplar. Bu roldeki değişiklikler geriye dönük değildir. Sistemdeki mevcut öğeler, eklemeleri sırasında erişimi okuyanlar tarafından görülebilir.",
   
   // "comcol-role.edit.item_read.anonymous-group": "Default read for incoming items is currently set to Anonymous.",
   "comcol-role.edit.item_read.anonymous-group": "Gelen öğeler için varsayılan okuma şu anda isimsiz olarak ayarlanmıştır.",
@@ -1402,7 +1402,7 @@
   "comcol-role.edit.bitstream_read.name": "Varsayılan bitstream okuma erişimi",
   
   // "comcol-role.edit.bitstream_read.description": "Community administrators can create sub-communities or collections, and manage or assign management for those sub-communities or collections. In addition, they decide who can submit items to any sub-collections, edit item metadata (after submission), and add (map) existing items from other collections (subject to authorization).",
-  "comcol-role.edit.bitstream_read.description": "Komünite yöneticileri alt komüniteler veya koleksiyonlar oluşturabilir ve bu alt komüniteler veya koleksiyonlar için yönetimi yönetebilir veya atayabilirler. Ek olarak, eşyaları herhangi bir alt koleksiyona kimin gönderebileceğine, öğe metadatalarını (sunulduktan sonra) düzenleyebilir ve harita) Diğer koleksiyonlardan gelen mevcut eşyalar (yetkilendirmeye tabi).",
+  "comcol-role.edit.bitstream_read.description": "Komünite yöneticileri alt komüniteler veya koleksiyonlar oluşturabilir ve bu alt komüniteler veya koleksiyonlar için yönetimi yönetebilir veya atayabilirler. Ek olarak, öğeleri herhangi bir alt koleksiyona kimin gönderebileceğine, öğe metadatalarını (sunulduktan sonra) düzenleyebilir ve harita) Diğer koleksiyonlardaki mevcut öğeleri (yetkileri dahilinde) eşleyebilir.",
   
   // "comcol-role.edit.bitstream_read.anonymous-group": "Default read for incoming bitstreams is currently set to Anonymous.",
   "comcol-role.edit.bitstream_read.anonymous-group": "Gelen bitstream için varsayılan okuma şu anda anonim olarak ayarlanmıştır.",
